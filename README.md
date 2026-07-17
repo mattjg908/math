@@ -1,0 +1,1 @@
+This repository contains my thoughts and notes as I work through [*Book of Proof* (3rd Edition) by Richard Hammack](https://richardhammack.github.io/BookOfProof/Main.pdf), [Math Academy](https://mathacademy.com), and, eventually, [Susan Rigetti's mathematics program](https://www.susanrigetti.com/math).
